@@ -1,4 +1,4 @@
-![image](https://github.com/KZuleika/intro-nn-python-numpy/assets/67844882/0f79f65b-f498-47c7-84d3-10f9090a876f)# intro-nn-python-numpy
+# intro-nn-python-numpy
 Introducción a las redes neuronales con Python y NumPy
 
 ## Registro de asistencia
