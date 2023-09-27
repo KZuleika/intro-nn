@@ -1,4 +1,4 @@
-# intro-nn-python-numpy
+# Introducción a las redes neuronales con Python y NumPy
 Introducción a las redes neuronales con Python y NumPy
 
 ## Registro de asistencia
